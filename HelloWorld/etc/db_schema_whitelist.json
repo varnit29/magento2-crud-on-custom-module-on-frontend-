@@ -1,0 +1,19 @@
+{
+    "HelloWorld": {
+        "column": {
+            "id": true,
+            "author_name": true,
+            "email": true,
+            "description": true,
+            "post_id": true,
+            "name": true,
+            "post_content": true,
+            "status": true,
+            "created_at": true,
+            "updated_at": true
+        },
+        "constraint": {
+            "PRIMARY": true
+        }
+    }
+}
